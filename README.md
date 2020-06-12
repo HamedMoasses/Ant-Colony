@@ -9,4 +9,4 @@ Self-organization means the lack of a central control system to control and coor
 
 In this repository we use ACO to optimize 4 famous problem including TSP, Binary Knapsack, Integer Knapsack and Quadratic Assignment Problem.
 comments within codes is been provided line by line.
-
+![ACo gif](https://github.com/HamedMoasses/Ant-Colony/blob/master/Ant-Colony-Optimizatin-Figure-012.gif)
