@@ -28,4 +28,5 @@ and Data Mining.
 In this repository we use ACO to optimize 4 famous problems including TSP, Binary Knapsack, Integer Knapsack and Quadratic Assignment Problem.
 comments within codes is been provided line by line.
 
-![ACo gif](https://github.com/HamedMoasses/Ant-Colony/blob/master/Ant-Colony-Optimizatin-Figure-012.gif)
+![ACo gif](https://github.com/HamedMoasses/Ant-Colony/blob/master/Ant-Colony-Optimizatin-Figure-012.gif) ![ACo gif](https://github.com/HamedMoasses/Ant-Colony/blob/master/Ant-Colony-Optimizatin-Figure-019.jpg)
+
